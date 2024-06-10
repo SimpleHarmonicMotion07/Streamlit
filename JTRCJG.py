@@ -1,9 +1,9 @@
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
 import os
 import time
 import random as rd
+import matplotlib.pyplot as plt
 rd.seed(time.time())
 
 plt.rcParams['font.family'] = 'Malgun Gothic'
